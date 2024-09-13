@@ -1,0 +1,2 @@
+---para ejecutarlo en modo debug y que te muestre los errores en la vista de la pagina---
+flask --app hello --debug run
